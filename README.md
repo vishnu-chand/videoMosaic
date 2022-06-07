@@ -41,6 +41,7 @@ photo mosaic
 * step4: map grid cluster to tile cluster based on cosine similarity
 * step5: replace images grid with matched tile cluster to create photo mosaic
 * step 6: as a final touch up superimpose tiles with image this make global patterns much more visible
+
 video mosaic
 * step1: compute euclidean distance between previous and current frame
 * step2: if distance is less than certain threshold then re-use previous tiles 
